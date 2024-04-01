@@ -7,7 +7,7 @@ public class Account {//소프트웨어 객체개발
 	static final String BANKNAME = "신한은행"; //상수 / (정적멤버변수)
 	String accountNo;//계좌번호 멤버변수('-'는 특수문자여서 문자열 객체변수로 진행)
 	String ownerName;//예금주 이름 -> 인스턴스 멤버변수
-	int balance; //잔액 멤버변수
+	private int balance; //잔액 멤버변수
 	
 	
 	//2.생성자 -> 클래스이름
