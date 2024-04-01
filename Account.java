@@ -1,6 +1,6 @@
 package object_class;
 
-//은행 계좌 클래스(신한은행)
+//은행 계좌 클래스(신한은행) => 멤버변수 제한자료 getter, setter 추가하기
 public class Account {//소프트웨어 객체개발
 	//객체 생성을 위해 필요한것, 클래스
 	//1.멤버변수(field)
